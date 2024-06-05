@@ -1,1 +1,1 @@
-# htmlbascics-prt2
+this is the html project with html basic tags and elements after that i going to add the css for styling and interactive for java script 
