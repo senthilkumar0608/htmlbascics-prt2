@@ -1,5 +1,5 @@
-thead th {
+thead{
     position: sticky;
     top: 0;
-    background-color: red; /* Adjust as necessary */
+    background-color: yellow;
 }
